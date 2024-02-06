@@ -19,6 +19,12 @@ Verified Discovery Records: Record fossil discoveries on the blockchain, includi
 ## Community Engagement:
 Decentralized Community Platforms: Develop decentralized community platforms on the blockchain where amateur fossil hunters can connect, share experiences, and collaborate. These platforms could also include educational resources and mentorship programs.
 
+# The following are some of the benefits of such a system 
+
+# Smart Contract and Block Explorer 
+
+The smart contract allows the project owner to set a funding goal and a duration for the crowdfunding campaign. Contributors can send Ether to the contract during the specified period. If the funding goal is reached before the deadline, the project owner can withdraw the funds. Otherwise, contributors can reclaim their contributions after the deadline has passed.
+
 
 ## Features included
 
