@@ -1,6 +1,24 @@
-# Marketplace template
+# MOKELE - MBEMBE
 
-This repository is an example of an application running on the [Liteflow](https://liteflow.com) infrastructure to showcase the uses of the infrastructure and/or be used as a starter kit to launch a product fast.
+Mokele mbembe is a desci oriented online community and marketplace where amateur paleontologists can connect, share experiences, and collaborate. Fossil hunters will be able to keep a record of their findings on chain along with related such as age , location found and species. AI can assist to verify the physical fossil and ensure it matches its NFT representation on the blockchain. For instance, every ammonite has different patterns. AI can use this to ensure consistency between the physical and nft fossil. Additionally, fossil hunters can chat and collaborate via the platforms chat functionality.
+
+
+# The following are some of the benefits of such a system 
+
+## Fossil Identification:
+Image Recognition: Implement AI-powered image recognition to help users identify fossils. Users can upload images, and the system can suggest potential matches, providing information about the fossil's type, age, and location.
+
+## Ownership and Provenance:
+NFTs for Fossil Ownership: Use blockchain to create non-fungible tokens (NFTs) representing each fossil. This ensures a transparent and immutable record of ownership, helping to prevent fraud and establish provenance.
+
+Verified Discovery Records: Record fossil discoveries on the blockchain, including detailed information about the find. This verified data can be made accessible to the broader scientific community, potentially increasing the chances of recognition.
+
+## Scientific Contribution:
+Verified Discovery Records: Record fossil discoveries on the blockchain, including detailed information about the find. This verified data can be made accessible to the broader scientific community, potentially increasing the chances of recognition.
+
+## Community Engagement:
+Decentralized Community Platforms: Develop decentralized community platforms on the blockchain where amateur fossil hunters can connect, share experiences, and collaborate. These platforms could also include educational resources and mentorship programs.
+
 
 ## Features included
 
@@ -79,12 +97,7 @@ The Marketplace template includes the following features:
 - Multi currency support
 - Advanced fee customization support
 
-It also includes compatibility with the following features:
 
-- Multi-language compatibility
-- Credit card payment gateway compatibility
-- Email connection compatibility
-- Wallet-to-wallet messaging system
 
 ## Libraries used
 
