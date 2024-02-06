@@ -25,6 +25,13 @@ Decentralized Community Platforms: Develop decentralized community platforms on 
 
 The smart contract allows the project owner to set a funding goal and a duration for the crowdfunding campaign. Contributors can send Ether to the contract during the specified period. If the funding goal is reached before the deadline, the project owner can withdraw the funds. Otherwise, contributors can reclaim their contributions after the deadline has passed.
 
+## Smart Contract Deployed at : 0x489e6c23f7c3485df9c63cbe054b4b54beef5a2cd10181a9ac4ac52623beeb4e
+## Enterprise mode activated at : 0xbaccd7b2931e272854ce4a9b13111f8ba48b34468f5e4ca04381d58d9098bbb9
+
+##  Blockscout Watch list added as shown below : 
+
+![Blockscout](https://github.com/Bleyle823/Mokele-Mbembe/assets/86532040/c4d3cff5-4ae6-40b9-8cfb-0986ed9926cb)
+
 
 ## Features included
 
